@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá!  Eu sou a Rebeca Silva dos Santos
 
-<!--
-**Rebeca38140/Rebeca38140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **Objetivo profissional:** Atuar com **Análise de Dados** ou **Desenvolvimento Front-End**.  
+ Estudando **Análise e Desenvolvimento de Sistemas** – Cruzeiro do Sul.  
+ Experiência sólida em logística, processos operacionais e uso de sistemas ERP/SAP.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Habilidades
+- **Linguagens & Ferramentas:** Excel, Power BI, SQL, NoSQL, Git, HTML, CSS, JavaScript.
+- **Soft Skills:** Proatividade, aprendizado rápido, adaptabilidade e foco em resultados.
+
+---
+
+ **Contato:**
+- LinkedIn:https://www.linkedin.com/in/rebeca-santos-664627206/  
+- E-mail: rebeca38140@gmail.com
